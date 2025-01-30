@@ -1,4 +1,4 @@
-# Extracting-Relationships-in-the-Mahabharata-Using-LLM-LangGraph-and-Neo4j
+# Extracting-Relationships-in-the-Text-Using-LLM-LangGraph-and-Neo4j
 
 
 
